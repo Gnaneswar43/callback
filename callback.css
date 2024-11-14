@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+}
+#callbackButton{
+    background-color: rgb(34, 181, 34);
+    text-align: center;
+    padding: 5px;
+    margin-left: 50%;
+    margin-top: 10%;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+#callbackResult{
+    background-color: aliceblue;
+    width: 500px;
+    height: 500px;
+    margin-left: 35%;
+    padding: 15px;
+}
